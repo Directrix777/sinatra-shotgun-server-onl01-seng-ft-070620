@@ -124,7 +124,7 @@ the controller action:
 
 ```ruby
 get '/' do
-  ""
+  "Started my server using Shotgun!"
 end
 ```
 
